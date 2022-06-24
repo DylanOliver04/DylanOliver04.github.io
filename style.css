@@ -1,0 +1,35 @@
+p {
+  color:blue;
+  width:400px
+  font-side:300px;
+}
+
+body{font-family: 'Press Start 2P', cursive;}
+h1{color:red;}
+h2{color:yellow;}
+h3{color:yellow;
+  max-height:20px;}
+html{background-color:black;}
+.pacman{
+  max-width:160px;
+  max-height:220px;
+}
+.dino{max-width:210px;
+  max-height:400px;}
+
+.doit{font-size:75px;
+  margin:90px 275px;
+background-color:red;
+border:2.5px;}
+.atari{max-width:160px;
+  max-height:200px;}
+.tetris{max-width:230px;
+  max-height:230px;}
+.pong{max-width:230px;
+  max-height:1300px;}
+.music{max-width:250px;
+  max-height:230px;}
+.book{max-width:290px;
+  max-height:200px;}
+.tweets{max-width:245px;
+  max-height:210px;}
