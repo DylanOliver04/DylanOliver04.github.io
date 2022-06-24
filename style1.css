@@ -1,0 +1,34 @@
+main{display:flex;
+flex-direction:row;
+flex:auto;
+}
+body{display:flex;
+flex-direction:column;
+}
+article{flex:1;
+overflow-y:auto;
+}
+aside:{flex:2;
+overflow-y:auto;
+}
+header{background-color:rgb(182, 247, 133,0.3);
+}
+aside{opacity:0.75}
+
+
+
+
+article{color:#2a75bb;
+  background-color:rgb(182, 247, 133,0.15);
+;
+}
+.spotify{max-width:390px;
+  max-height:189px;}
+html{background-image:url(https://images.dailyhive.com/20200219105508/pikachu.jpg)}
+.music{max-width:550px;
+  max-height:189px;}
+.youtube{max-width:173px;
+  max-height:220px;}
+  
+  
+  
