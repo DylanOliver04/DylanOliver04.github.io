@@ -1,0 +1,33 @@
+main{display:flex;
+flex-direction:row;
+flex:auto;
+}
+body{display:flex;
+flex-direction:column;}
+article{flex:1;
+overflow-y:auto;
+}
+aside:{flex:2;
+overflow-y:auto;
+}
+html{background-image:url("https://images6.alphacoders.com/705/705836.jpg");}
+header{background-color:rgba(95, 223, 227,0.12);
+}
+footer{color:white;}
+aside{opacity:0.75}
+ul{color:ivory;
+}
+main{color:;}
+.game{max-width:35%;
+  max-height:220px;}
+.p1{color:white;}
+.dino{max-width:15%;
+  max-height:220px;}
+.pac{max-width:12.3%;
+  max-height:220px;}
+.tetris{max-width:15%;
+  max-height:200px;}
+.rick{max-width:12.3%;
+  max-height:220px;}
+article{color:white;background-color:rgba(95, 223, 227,0.09);
+}
