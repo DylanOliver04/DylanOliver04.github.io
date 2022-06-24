@@ -1,0 +1,40 @@
+<!DOCTYPE>
+<html>
+  <head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet"> <link href="style2.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Press+Start+2P&display=swap" rel="stylesheet">
+  </head>
+<body>
+  <header><h3> <center>Learn about the games you play!</center></h3>
+ <ul>
+  
+ <p1><li> <a href="link"> Back to games </a> </li> 
+  <li><a href="link"> Tweets </a> </li>
+   <li><a href="link"> Info about the games </a></li></p1> 
+   
+   </ul>
+  </header>
+  <main>
+    <article>
+  <center>
+    <h3><center>Click on an icon and learn!</center>
+      <a href="https://dino-chrome.com/history"target="_blank"> <img src="https://art.pixilart.com/ced57264370815c.png" class=dino </a> 
+  <a href="https://www.classicgaming.cc/classics/pac-man/play-guide"target="_blank"><img src=https://www.freeiconspng.com/thumbs/pacman-png/pacman-png-18.png class=pac  </a> 
+       
+       <a href="https://tetris.com/"
+              target="_blank"> <img src="http://assets.stickpng.com/thumbs/628a73f9bc2ec7ad957f4077.png" class=tetris </a>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+             target="_blank"><img src="https://www.pngkey.com/png/full/104-1041549_retro-joystick-atari-controller-pixel-art.png" class=rick </a> 
+      </center>
+   </article>
+    <aside><center> <a href="link"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Video-Game-Controller-Icon.svg/1024px-Video-Game-Controller-Icon.svg.png class=game> </center>
+      <center>Return to games </center>
+</aside>
+  </main>
+    <footer>Made by Dylan Oliver for <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>.
+ </footer>
+    </body>
+  </head>
