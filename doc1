@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet"> <link href="style1.css" rel="stylesheet"></head>
+  <body>
+    <header><center> <h3>Listen to music while you play!</h3></center>
+ <ul>
+ <li> <a href="link"> Back to games </a> </li> 
+  <li><a href="link"> Tweets </a> </li>
+  <li><a href="link"> Info about the games </a></li> 
+   </ul>
+  
+  </header>
+  <main>
+  
+    <article><h1> <center>Play with music!</center>
+     <center> 
+       <a href="https://open.spotify.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" class=spotify> </a>
+     <a href="https://music.apple.com/us/browse"target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" class=music></a>  
+      <a href="https://music.youtube.com/"target="_blank"><img src=https://play-lh.googleusercontent.com/76AjYITcB0dI0sFqdQjNgXQxRMlDIswbp0BAU_O5Oob-73b6cqKggVlAiNXQAW5Bl1g class=youtube> </a></center>
+    </article>
+    <aside> <center> <img src="https://bloodstainedritualofthenight.wiki.fextralife.com/file/Bloodstained-Ritual-of-The-Night/8-bit-nightmare-material-bloodstained-wiki-guide.png" class=book> </center>
+      <center>Learn about the games!</center>
+     
+</aside>
+    </main>
+    <footer>Made by Dylan Oliver for <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>.
+ </footer>
+    </body>
+    </head>
+    
+      
+
+   
