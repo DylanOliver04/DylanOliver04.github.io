@@ -1,0 +1,90 @@
+html{background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(41,41,212,1) 0%, rgba(152,0,255,1) 100%);}
+h1{font-family: 'Candal', sans-serif; 
+color:white;
+text-align:center;
+font-size:80px;}
+h2{font-family: 'Candal', sans-serif; 
+color:white;
+text-align:center;
+  font-size:17px}
+h2{margin-bottom:75px;}
+ 
+h1,h2{line-height: 0.3;}
+
+.yourname{max-width:1200px;
+  max-height:220px;}
+.weathering{max-width:1200px;
+  max-height:220px;}
+.belle{max-width:1200px;
+  max-height:220px;}
+.wave{max-width:900px;
+  max-height:220px;}
+.penguin{max-width:1200px;
+  max-height:220px;}
+.kiki{max-width:1200px;
+  max-height:220px;}
+.marnie{max-width:1200px;
+  max-height:220px;}
+.mario{max-width:1200px;
+  max-height:220px;}
+.suzume{max-width:1200px;
+  max-height:220px;}
+.puss{max-width:1200px;
+  max-height:220px;}
+.wolf{max-width:1200px;
+  max-height:220px;}
+.fireflies{max-width:1200px;
+  max-height:220px;}
+.kaguya{max-width:1200px;
+  max-height:220px;}
+.witch{max-width:1200px;
+  max-height:220px;}
+.castle{max-width:1200px;
+  max-height:220px;}
+.ponyo{max-width:1200px;
+  max-height:220px;}
+.miles{max-width:1200px;
+  max-height:220px;}
+
+div.gallery:hover {
+  border: 6px solid #777;
+border-color: white;
+    }
+div
+{
+height:220px;
+}
+
+div.desc {
+  padding: 15px;
+  
+}
+
+
+.responsive {
+  padding: 13px 13px;
+float:left;
+  width: %;}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ {
+  box-sizing: border-box;
+}
